@@ -9,6 +9,9 @@ public class HooverCollector : MonoBehaviour
     [Header("References")]
     [SerializeField] private ScrapWallet wallet;
 
+    [Header("Availability")]
+    [SerializeField] private bool startsUnlocked = true;
+
     [Header("Hoover Settings")]
     [Min(0.1f)]
     [SerializeField] private float hooverRadius = 6f;
@@ -21,6 +24,7 @@ public class HooverCollector : MonoBehaviour
     [Header("Legacy Input Fallback")]
     [SerializeField] private KeyCode fallbackHooverKey = KeyCode.E;
 
+    private bool isUnlocked;
     private Collider[] overlapResults = new Collider[64];
     private readonly HashSet<HooverChunk> processedChunks = new HashSet<HooverChunk>();
 
@@ -35,12 +39,19 @@ public class HooverCollector : MonoBehaviour
             wallet = GetComponent<ScrapWallet>();
         }
 
+        isUnlocked = startsUnlocked;
+
 #if ENABLE_INPUT_SYSTEM
         hooverAction = new InputAction("Hoover");
         hooverAction.AddBinding("<Keyboard>/e");
         hooverAction.AddBinding("<Mouse>/rightButton");
         hooverAction.AddBinding("<Gamepad>/leftTrigger");
 #endif
+    }
+
+    public void SetUnlocked(bool unlocked)
+    {
+        isUnlocked = unlocked;
     }
 
     private void OnEnable()
@@ -59,7 +70,7 @@ public class HooverCollector : MonoBehaviour
 
     private void Update()
     {
-        if (wallet == null || !IsHooverHeld())
+        if (!isUnlocked || wallet == null || !IsHooverHeld())
         {
             return;
         }
