@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 794daaeac8c20474aa9d662db88fe814
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 331249
+  packageName: BoxCutter - Realtime Voxel Destruction
+  packageVersion: 2.15
+  assetPath: Assets/BoxCutter/DemoScenes/Examples/Models/MagicaModels/Castle/Prefabs/Castle.prefab
+  uploadId: 857278

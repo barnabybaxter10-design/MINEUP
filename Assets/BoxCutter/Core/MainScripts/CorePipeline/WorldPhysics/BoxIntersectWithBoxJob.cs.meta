@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4ee79e7b4a73cea43b9dd5ba495820d5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 331249
+  packageName: BoxCutter - Realtime Voxel Destruction
+  packageVersion: 2.15
+  assetPath: Assets/BoxCutter/Core/MainScripts/CorePipeline/WorldPhysics/BoxIntersectWithBoxJob.cs
+  uploadId: 857278

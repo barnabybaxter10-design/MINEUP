@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 88fab13b9437abf488d0667874c40799
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 331249
+  packageName: BoxCutter - Realtime Voxel Destruction
+  packageVersion: 2.15
+  assetPath: Assets/BoxCutter/DemoScenes/Examples/FragExamples/SlabFrag.asset
+  uploadId: 857278

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6d1b277aa06548943b66c16aebab04b2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 331249
+  packageName: BoxCutter - Realtime Voxel Destruction
+  packageVersion: 2.15
+  assetPath: Assets/BoxCutter/DemoScenes/Examples/Scripts/EventExamples/FullCallerFragmentEventExample.cs
+  uploadId: 857278

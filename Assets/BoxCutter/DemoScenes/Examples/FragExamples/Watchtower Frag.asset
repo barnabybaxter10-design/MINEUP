@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b0dcc0ad08d3d14aa3344221c559fb5, type: 3}
+  m_Name: Watchtower Frag
+  m_EditorClassIdentifier: 
+  fragmentType: 2
+  outRadiusScaleMul: 0.5
+  canRandomSlabAxis: 0
+  fixedSlabPrimaryAxis: 2
+  fixedSlabSecondaryAxis: 2
+  fixedSlabTertiaryAxis: 2
+  slabRangePrimary:
+    x: 4
+    y: 7
+  slabRangeSecondary:
+    x: 1
+    y: 1
+  slabRangeTertiary:
+    x: 1
+    y: 1
+  canRandomSplinterAxis: 1
+  fixedSplinterPrimaryAxis: 6
+  fixedSplinterSecondaryAxis: 1
+  fixedSplinterTertiaryAxis: 1
+  splinterRangePrimary:
+    x: 7
+    y: 12
+  splinterRangeSecondary:
+    x: 1
+    y: 2
+  splinterRangeTertiary:
+    x: 1
+    y: 2
+  splinterAxisMode: 0
+  canCluster: 0
+  maxClusterRadius: 5
+  useDiscMask: 1
+  radialWeight: 1
+  densityFallExp: 1
+  radialSpokes: 6
+  crackLengthMultiplier: 1
+  minSegmentLength: 0.2
+  maxSegmentLength: 0.5
+  maxZigZagAngleDeg: 30
+  crackThickness: 0
+  ringDensity: 0.5
+  ringCoverage: 0.8
+  ringGrowthExp: 2.25
+  ringFalloff: 0.3
+  ringThickness: 0
+  radialRingGenType: 0
+  ringNoiseAmplitude: 0.2
+  ringNoiseFrequency: 4
+  planeMode: 2
+  radialPlaneNormal: {x: 0, y: 1, z: 0}
+  radialPlaneForward: {x: 0, y: 0, z: 1}

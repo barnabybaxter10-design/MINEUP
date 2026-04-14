@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6a953c6e3bad80c4899a7f8b66572e8a
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 331249
+  packageName: BoxCutter - Realtime Voxel Destruction
+  packageVersion: 2.15
+  assetPath: Assets/BoxCutter/Editor/Scripts/BCVoxImporter.unitypackage
+  uploadId: 857278

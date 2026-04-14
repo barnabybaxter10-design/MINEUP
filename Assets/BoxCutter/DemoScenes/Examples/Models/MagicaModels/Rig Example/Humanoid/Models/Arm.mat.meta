@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 752414ca7482443468ccb625b32d8007
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 331249
+  packageName: BoxCutter - Realtime Voxel Destruction
+  packageVersion: 2.15
+  assetPath: Assets/BoxCutter/DemoScenes/Examples/Models/MagicaModels/Rig Example/Humanoid/Models/Arm.mat
+  uploadId: 857278

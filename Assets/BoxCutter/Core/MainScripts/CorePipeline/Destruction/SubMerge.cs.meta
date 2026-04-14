@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b2c9163f4fcb7af44a247aad2fa73909
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 331249
+  packageName: BoxCutter - Realtime Voxel Destruction
+  packageVersion: 2.15
+  assetPath: Assets/BoxCutter/Core/MainScripts/CorePipeline/Destruction/SubMerge.cs
+  uploadId: 857278

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a6da4c100cf0d9d4d8670504c1244740
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 331249
+  packageName: BoxCutter - Realtime Voxel Destruction
+  packageVersion: 2.15
+  assetPath: Assets/BoxCutter/DemoScenes/Examples/Models/MagicaModels/Rigby/Prefabs/Rigby
+    Image.prefab
+  uploadId: 857278

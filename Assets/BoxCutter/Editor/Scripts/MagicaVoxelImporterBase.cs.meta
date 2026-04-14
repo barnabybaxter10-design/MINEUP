@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 84e93c5ebd86793489f22f9e3deda8bc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 331249
+  packageName: BoxCutter - Realtime Voxel Destruction
+  packageVersion: 2.15
+  assetPath: Assets/BoxCutter/Editor/Scripts/MagicaVoxelImporterBase.cs
+  uploadId: 857278

@@ -1,0 +1,1551 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1624037303468697821
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 7902e18927d617e4cbb5b1f5e9dca560,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 7902e18927d617e4cbb5b1f5e9dca560,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 7902e18927d617e4cbb5b1f5e9dca560,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 7902e18927d617e4cbb5b1f5e9dca560,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 7902e18927d617e4cbb5b1f5e9dca560,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 7902e18927d617e4cbb5b1f5e9dca560,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 7902e18927d617e4cbb5b1f5e9dca560,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 7902e18927d617e4cbb5b1f5e9dca560,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 7902e18927d617e4cbb5b1f5e9dca560,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 7902e18927d617e4cbb5b1f5e9dca560,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 7902e18927d617e4cbb5b1f5e9dca560,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 7902e18927d617e4cbb5b1f5e9dca560,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 7902e18927d617e4cbb5b1f5e9dca560,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 7902e18927d617e4cbb5b1f5e9dca560,
+        type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -7635826562936255635, guid: 7902e18927d617e4cbb5b1f5e9dca560,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 15d5a5663ac74cd4a87a018573789394, type: 2}
+    - target: {fileID: 919132149155446097, guid: 7902e18927d617e4cbb5b1f5e9dca560,
+        type: 3}
+      propertyPath: m_Name
+      value: Castle
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 8164078558771037576, guid: 7902e18927d617e4cbb5b1f5e9dca560,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5613163804102480574}
+  m_SourcePrefab: {fileID: 100100000, guid: 7902e18927d617e4cbb5b1f5e9dca560, type: 3}
+--- !u!23 &36492104445027248 stripped
+MeshRenderer:
+  m_CorrespondingSourceObject: {fileID: -7635826562936255635, guid: 7902e18927d617e4cbb5b1f5e9dca560,
+    type: 3}
+  m_PrefabInstance: {fileID: 1624037303468697821}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1833862376110980718 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1151388028547126963, guid: 7902e18927d617e4cbb5b1f5e9dca560,
+    type: 3}
+  m_PrefabInstance: {fileID: 1624037303468697821}
+  m_PrefabAsset: {fileID: 0}
+--- !u!33 &3577018369082017572 stripped
+MeshFilter:
+  m_CorrespondingSourceObject: {fileID: -6400281290468069383, guid: 7902e18927d617e4cbb5b1f5e9dca560,
+    type: 3}
+  m_PrefabInstance: {fileID: 1624037303468697821}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &7477417266428144981 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8164078558771037576, guid: 7902e18927d617e4cbb5b1f5e9dca560,
+    type: 3}
+  m_PrefabInstance: {fileID: 1624037303468697821}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &5613163804102480574
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7477417266428144981}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5ec511f185abe243b9d5b875bb07c4e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  canDebug: 0
+  canShowGizmos: 0
+  canShowPartitions: 0
+  kdCellIndex: -1
+  canCusVoxelSize: 0
+  cusVoxelSize: 0.5
+  voxelResolution: 1
+  parentIsDynamic: 0
+  isDynamic: 0
+  lastIsDynamic: 0
+  connectionState: 1
+  canWlAttach: 0
+  wlAttachedBox: []
+  wlAttachedBoxInheritId: 
+  canRequireBoxes: 0
+  canCusRequireLogic: 0
+  cusRequireLogic: {fileID: 0}
+  requiredBoxes: []
+  requiredBoxesInheritId: 
+  useRequireAsAnchor: 1
+  group: {fileID: 0}
+  meshGenMode: 0
+  colliderGenMode: 0
+  canOverrideDiagInIsland: 0
+  diagInIslandTo: 0
+  canOverrideKdCellTightness: 0
+  kdCellTightnessTo: 0.5
+  canInheritChildTrans: 0
+  inheritChildDataList: []
+  magicaVoxelData: {fileID: -8286638274987738798, guid: 78c1c00414c529b4f913c20e4015243b,
+    type: 3}
+  modelIndex: -1
+  lastMagicaVoxelData: {fileID: -8286638274987738798, guid: 78c1c00414c529b4f913c20e4015243b,
+    type: 3}
+  lastModelIndex: -1
+  forceIgnoreColorCollider: 0
+  autoRefreshMagicaData: 1
+  hasModels: 0
+  maxModelsLength: 1
+  lastCusVoxelSize: 0.5
+  lastLossyScale: {x: 1, y: 1, z: 1}
+  lastCanCusVoxelSize: 0
+  lastVoxelResolution: 1
+  totalColors: 1
+  magicaLocalPosOffsetX: -0.100000024
+  magicaLocalPosOffsetY: 1.5
+  magicaLocalPosOffsetZ: -0.100000024
+  voxelSize: 0.2
+  voxelSize3D:
+    x: 0
+    y: 0
+    z: 0
+  ready: 0
+  pooled: 0
+  gameObj: {fileID: 7477417266428144981}
+  obj: {fileID: 1833862376110980718}
+  meshRend: {fileID: 36492104445027248}
+  mats: []
+  meshFilter: {fileID: 3577018369082017572}
+  existingColliders: []
+  rb: {fileID: 0}
+  myTag: Untagged
+  myLayer:
+    serializedVersion: 2
+    m_Bits: 0
+  pos:
+    x: 0
+    y: 0
+    z: 0
+  centerPos:
+    x: -0.100000024
+    y: 1.5
+    z: -0.100000024
+  centerPosX: -0.100000024
+  centerPosY: 1.5
+  centerPosZ: -0.100000024
+  sizeX: 3.8
+  sizeY: 3
+  sizeZ: 4.2
+  qx: -0
+  qy: -0
+  qz: -0
+  qw: 1
+  iqx: 0
+  iqy: 0
+  iqz: 0
+  iqw: 1
+  rightX: 1
+  rightY: 0
+  rightZ: 0
+  upX: 0
+  upY: 1
+  upZ: 0
+  fwdX: 0
+  fwdY: 0
+  fwdZ: 1
+  vRightX: 0.2
+  vRightY: 0
+  vRightZ: 0
+  vUpX: 0
+  vUpY: 0.2
+  vUpZ: 0
+  vFwdX: 0
+  vFwdY: 0
+  vFwdZ: 0.2
+  allSubList:
+  - minX: 0
+    minY: 7
+    minZ: 1
+    maxX: 4
+    maxY: 8
+    maxZ: 20
+    magicaIndex: 248
+  - minX: 0
+    minY: 13
+    minZ: 0
+    maxX: 1
+    maxY: 14
+    maxZ: 21
+    magicaIndex: 248
+  - minX: 0
+    minY: 14
+    minZ: 1
+    maxX: 1
+    maxY: 15
+    maxZ: 2
+    magicaIndex: 248
+  - minX: 0
+    minY: 14
+    minZ: 3
+    maxX: 1
+    maxY: 15
+    maxZ: 4
+    magicaIndex: 248
+  - minX: 0
+    minY: 14
+    minZ: 5
+    maxX: 1
+    maxY: 15
+    maxZ: 6
+    magicaIndex: 248
+  - minX: 0
+    minY: 14
+    minZ: 7
+    maxX: 1
+    maxY: 15
+    maxZ: 8
+    magicaIndex: 248
+  - minX: 0
+    minY: 14
+    minZ: 9
+    maxX: 1
+    maxY: 15
+    maxZ: 10
+    magicaIndex: 248
+  - minX: 0
+    minY: 14
+    minZ: 11
+    maxX: 1
+    maxY: 15
+    maxZ: 12
+    magicaIndex: 248
+  - minX: 0
+    minY: 14
+    minZ: 13
+    maxX: 1
+    maxY: 15
+    maxZ: 14
+    magicaIndex: 248
+  - minX: 0
+    minY: 14
+    minZ: 15
+    maxX: 1
+    maxY: 15
+    maxZ: 16
+    magicaIndex: 248
+  - minX: 0
+    minY: 14
+    minZ: 17
+    maxX: 1
+    maxY: 15
+    maxZ: 18
+    magicaIndex: 248
+  - minX: 0
+    minY: 14
+    minZ: 19
+    maxX: 1
+    maxY: 15
+    maxZ: 20
+    magicaIndex: 248
+  - minX: 1
+    minY: 0
+    minZ: 1
+    maxX: 6
+    maxY: 7
+    maxZ: 4
+    magicaIndex: 248
+  - minX: 1
+    minY: 0
+    minZ: 7
+    maxX: 4
+    maxY: 7
+    maxZ: 14
+    magicaIndex: 248
+  - minX: 1
+    minY: 0
+    minZ: 17
+    maxX: 6
+    maxY: 7
+    maxZ: 20
+    magicaIndex: 248
+  - minX: 1
+    minY: 4
+    minZ: 4
+    maxX: 4
+    maxY: 7
+    maxZ: 7
+    magicaIndex: 248
+  - minX: 1
+    minY: 4
+    minZ: 14
+    maxX: 4
+    maxY: 7
+    maxZ: 17
+    magicaIndex: 248
+  - minX: 1
+    minY: 7
+    minZ: 0
+    maxX: 6
+    maxY: 8
+    maxZ: 1
+    magicaIndex: 248
+  - minX: 1
+    minY: 7
+    minZ: 20
+    maxX: 6
+    maxY: 8
+    maxZ: 21
+    magicaIndex: 248
+  - minX: 1
+    minY: 8
+    minZ: 1
+    maxX: 4
+    maxY: 11
+    maxZ: 20
+    magicaIndex: 248
+  - minX: 1
+    minY: 11
+    minZ: 1
+    maxX: 2
+    maxY: 13
+    maxZ: 3
+    magicaIndex: 248
+  - minX: 1
+    minY: 11
+    minZ: 4
+    maxX: 6
+    maxY: 13
+    maxZ: 5
+    magicaIndex: 248
+  - minX: 1
+    minY: 11
+    minZ: 6
+    maxX: 4
+    maxY: 13
+    maxZ: 7
+    magicaIndex: 248
+  - minX: 1
+    minY: 11
+    minZ: 8
+    maxX: 4
+    maxY: 13
+    maxZ: 9
+    magicaIndex: 248
+  - minX: 1
+    minY: 11
+    minZ: 10
+    maxX: 4
+    maxY: 13
+    maxZ: 11
+    magicaIndex: 248
+  - minX: 1
+    minY: 11
+    minZ: 12
+    maxX: 4
+    maxY: 13
+    maxZ: 13
+    magicaIndex: 248
+  - minX: 1
+    minY: 11
+    minZ: 14
+    maxX: 4
+    maxY: 13
+    maxZ: 15
+    magicaIndex: 248
+  - minX: 1
+    minY: 11
+    minZ: 16
+    maxX: 6
+    maxY: 13
+    maxZ: 17
+    magicaIndex: 248
+  - minX: 1
+    minY: 11
+    minZ: 18
+    maxX: 2
+    maxY: 13
+    maxZ: 20
+    magicaIndex: 248
+  - minX: 1
+    minY: 12
+    minZ: 3
+    maxX: 18
+    maxY: 13
+    maxZ: 4
+    magicaIndex: 248
+  - minX: 1
+    minY: 12
+    minZ: 5
+    maxX: 4
+    maxY: 13
+    maxZ: 6
+    magicaIndex: 248
+  - minX: 1
+    minY: 12
+    minZ: 7
+    maxX: 3
+    maxY: 13
+    maxZ: 8
+    magicaIndex: 248
+  - minX: 1
+    minY: 12
+    minZ: 9
+    maxX: 4
+    maxY: 13
+    maxZ: 10
+    magicaIndex: 248
+  - minX: 1
+    minY: 12
+    minZ: 11
+    maxX: 4
+    maxY: 13
+    maxZ: 12
+    magicaIndex: 248
+  - minX: 1
+    minY: 12
+    minZ: 13
+    maxX: 3
+    maxY: 13
+    maxZ: 14
+    magicaIndex: 248
+  - minX: 1
+    minY: 12
+    minZ: 15
+    maxX: 4
+    maxY: 13
+    maxZ: 16
+    magicaIndex: 248
+  - minX: 1
+    minY: 12
+    minZ: 17
+    maxX: 18
+    maxY: 13
+    maxZ: 18
+    magicaIndex: 248
+  - minX: 1
+    minY: 13
+    minZ: 0
+    maxX: 2
+    maxY: 15
+    maxZ: 1
+    magicaIndex: 248
+  - minX: 1
+    minY: 13
+    minZ: 20
+    maxX: 2
+    maxY: 15
+    maxZ: 21
+    magicaIndex: 248
+  - minX: 2
+    minY: 0
+    minZ: 4
+    maxX: 6
+    maxY: 4
+    maxZ: 5
+    magicaIndex: 248
+  - minX: 2
+    minY: 0
+    minZ: 6
+    maxX: 4
+    maxY: 4
+    maxZ: 7
+    magicaIndex: 248
+  - minX: 2
+    minY: 0
+    minZ: 14
+    maxX: 4
+    maxY: 4
+    maxZ: 15
+    magicaIndex: 248
+  - minX: 2
+    minY: 0
+    minZ: 16
+    maxX: 6
+    maxY: 4
+    maxZ: 17
+    magicaIndex: 248
+  - minX: 2
+    minY: 11
+    minZ: 2
+    maxX: 17
+    maxY: 12
+    maxZ: 4
+    magicaIndex: 248
+  - minX: 2
+    minY: 11
+    minZ: 5
+    maxX: 4
+    maxY: 12
+    maxZ: 6
+    magicaIndex: 248
+  - minX: 2
+    minY: 11
+    minZ: 7
+    maxX: 4
+    maxY: 12
+    maxZ: 8
+    magicaIndex: 248
+  - minX: 2
+    minY: 11
+    minZ: 9
+    maxX: 4
+    maxY: 12
+    maxZ: 10
+    magicaIndex: 248
+  - minX: 2
+    minY: 11
+    minZ: 11
+    maxX: 4
+    maxY: 12
+    maxZ: 12
+    magicaIndex: 248
+  - minX: 2
+    minY: 11
+    minZ: 13
+    maxX: 4
+    maxY: 12
+    maxZ: 14
+    magicaIndex: 248
+  - minX: 2
+    minY: 11
+    minZ: 15
+    maxX: 4
+    maxY: 12
+    maxZ: 16
+    magicaIndex: 248
+  - minX: 2
+    minY: 11
+    minZ: 17
+    maxX: 17
+    maxY: 12
+    maxZ: 19
+    magicaIndex: 248
+  - minX: 2
+    minY: 12
+    minZ: 1
+    maxX: 18
+    maxY: 13
+    maxZ: 3
+    magicaIndex: 248
+  - minX: 2
+    minY: 12
+    minZ: 18
+    maxX: 18
+    maxY: 13
+    maxZ: 20
+    magicaIndex: 248
+  - minX: 2
+    minY: 13
+    minZ: 0
+    maxX: 19
+    maxY: 14
+    maxZ: 1
+    magicaIndex: 248
+  - minX: 2
+    minY: 13
+    minZ: 20
+    maxX: 19
+    maxY: 14
+    maxZ: 21
+    magicaIndex: 248
+  - minX: 3
+    minY: 0
+    minZ: 5
+    maxX: 4
+    maxY: 4
+    maxZ: 6
+    magicaIndex: 248
+  - minX: 3
+    minY: 0
+    minZ: 15
+    maxX: 4
+    maxY: 4
+    maxZ: 16
+    magicaIndex: 248
+  - minX: 3
+    minY: 11
+    minZ: 1
+    maxX: 4
+    maxY: 12
+    maxZ: 2
+    magicaIndex: 248
+  - minX: 3
+    minY: 11
+    minZ: 19
+    maxX: 4
+    maxY: 12
+    maxZ: 20
+    magicaIndex: 248
+  - minX: 3
+    minY: 13
+    minZ: 4
+    maxX: 4
+    maxY: 14
+    maxZ: 17
+    magicaIndex: 248
+  - minX: 3
+    minY: 14
+    minZ: 0
+    maxX: 4
+    maxY: 15
+    maxZ: 1
+    magicaIndex: 248
+  - minX: 3
+    minY: 14
+    minZ: 4
+    maxX: 4
+    maxY: 15
+    maxZ: 5
+    magicaIndex: 248
+  - minX: 3
+    minY: 14
+    minZ: 6
+    maxX: 4
+    maxY: 15
+    maxZ: 7
+    magicaIndex: 248
+  - minX: 3
+    minY: 14
+    minZ: 8
+    maxX: 4
+    maxY: 15
+    maxZ: 9
+    magicaIndex: 248
+  - minX: 3
+    minY: 14
+    minZ: 10
+    maxX: 4
+    maxY: 15
+    maxZ: 11
+    magicaIndex: 248
+  - minX: 3
+    minY: 14
+    minZ: 12
+    maxX: 4
+    maxY: 15
+    maxZ: 13
+    magicaIndex: 248
+  - minX: 3
+    minY: 14
+    minZ: 14
+    maxX: 4
+    maxY: 15
+    maxZ: 15
+    magicaIndex: 248
+  - minX: 3
+    minY: 14
+    minZ: 16
+    maxX: 4
+    maxY: 15
+    maxZ: 17
+    magicaIndex: 248
+  - minX: 3
+    minY: 14
+    minZ: 20
+    maxX: 4
+    maxY: 15
+    maxZ: 21
+    magicaIndex: 248
+  - minX: 4
+    minY: 4
+    minZ: 4
+    maxX: 6
+    maxY: 11
+    maxZ: 5
+    magicaIndex: 248
+  - minX: 4
+    minY: 4
+    minZ: 16
+    maxX: 6
+    maxY: 11
+    maxZ: 17
+    magicaIndex: 248
+  - minX: 4
+    minY: 7
+    minZ: 1
+    maxX: 6
+    maxY: 11
+    maxZ: 4
+    magicaIndex: 248
+  - minX: 4
+    minY: 7
+    minZ: 17
+    maxX: 6
+    maxY: 11
+    maxZ: 20
+    magicaIndex: 248
+  - minX: 4
+    minY: 13
+    minZ: 4
+    maxX: 16
+    maxY: 14
+    maxZ: 5
+    magicaIndex: 248
+  - minX: 4
+    minY: 13
+    minZ: 16
+    maxX: 16
+    maxY: 14
+    maxZ: 17
+    magicaIndex: 248
+  - minX: 5
+    minY: 11
+    minZ: 1
+    maxX: 14
+    maxY: 12
+    maxZ: 2
+    magicaIndex: 248
+  - minX: 5
+    minY: 11
+    minZ: 19
+    maxX: 14
+    maxY: 12
+    maxZ: 20
+    magicaIndex: 248
+  - minX: 5
+    minY: 14
+    minZ: 0
+    maxX: 6
+    maxY: 15
+    maxZ: 1
+    magicaIndex: 248
+  - minX: 5
+    minY: 14
+    minZ: 4
+    maxX: 6
+    maxY: 15
+    maxZ: 5
+    magicaIndex: 248
+  - minX: 5
+    minY: 14
+    minZ: 16
+    maxX: 6
+    maxY: 15
+    maxZ: 17
+    magicaIndex: 248
+  - minX: 5
+    minY: 14
+    minZ: 20
+    maxX: 6
+    maxY: 15
+    maxZ: 21
+    magicaIndex: 248
+  - minX: 6
+    minY: 7
+    minZ: 1
+    maxX: 7
+    maxY: 8
+    maxZ: 5
+    magicaIndex: 248
+  - minX: 6
+    minY: 7
+    minZ: 16
+    maxX: 7
+    maxY: 8
+    maxZ: 20
+    magicaIndex: 248
+  - minX: 6
+    minY: 9
+    minZ: 1
+    maxX: 7
+    maxY: 11
+    maxZ: 5
+    magicaIndex: 248
+  - minX: 6
+    minY: 9
+    minZ: 16
+    maxX: 7
+    maxY: 11
+    maxZ: 20
+    magicaIndex: 248
+  - minX: 6
+    minY: 11
+    minZ: 4
+    maxX: 18
+    maxY: 12
+    maxZ: 5
+    magicaIndex: 248
+  - minX: 6
+    minY: 11
+    minZ: 16
+    maxX: 18
+    maxY: 12
+    maxZ: 17
+    magicaIndex: 248
+  - minX: 7
+    minY: 9
+    minZ: 2
+    maxX: 8
+    maxY: 11
+    maxZ: 5
+    magicaIndex: 248
+  - minX: 7
+    minY: 9
+    minZ: 16
+    maxX: 8
+    maxY: 11
+    maxZ: 19
+    magicaIndex: 248
+  - minX: 7
+    minY: 10
+    minZ: 1
+    maxX: 8
+    maxY: 11
+    maxZ: 2
+    magicaIndex: 248
+  - minX: 7
+    minY: 10
+    minZ: 19
+    maxX: 8
+    maxY: 11
+    maxZ: 20
+    magicaIndex: 248
+  - minX: 7
+    minY: 12
+    minZ: 4
+    maxX: 12
+    maxY: 13
+    maxZ: 5
+    magicaIndex: 248
+  - minX: 7
+    minY: 12
+    minZ: 16
+    maxX: 12
+    maxY: 13
+    maxZ: 17
+    magicaIndex: 248
+  - minX: 7
+    minY: 14
+    minZ: 0
+    maxX: 8
+    maxY: 15
+    maxZ: 1
+    magicaIndex: 248
+  - minX: 7
+    minY: 14
+    minZ: 4
+    maxX: 8
+    maxY: 15
+    maxZ: 5
+    magicaIndex: 248
+  - minX: 7
+    minY: 14
+    minZ: 16
+    maxX: 8
+    maxY: 15
+    maxZ: 17
+    magicaIndex: 248
+  - minX: 7
+    minY: 14
+    minZ: 20
+    maxX: 8
+    maxY: 15
+    maxZ: 21
+    magicaIndex: 248
+  - minX: 8
+    minY: 9
+    minZ: 3
+    maxX: 18
+    maxY: 11
+    maxZ: 5
+    magicaIndex: 248
+  - minX: 8
+    minY: 9
+    minZ: 16
+    maxX: 18
+    maxY: 11
+    maxZ: 18
+    magicaIndex: 248
+  - minX: 8
+    minY: 10
+    minZ: 2
+    maxX: 18
+    maxY: 11
+    maxZ: 3
+    magicaIndex: 248
+  - minX: 8
+    minY: 10
+    minZ: 18
+    maxX: 18
+    maxY: 11
+    maxZ: 19
+    magicaIndex: 248
+  - minX: 9
+    minY: 14
+    minZ: 0
+    maxX: 10
+    maxY: 15
+    maxZ: 1
+    magicaIndex: 248
+  - minX: 9
+    minY: 14
+    minZ: 4
+    maxX: 10
+    maxY: 15
+    maxZ: 5
+    magicaIndex: 248
+  - minX: 9
+    minY: 14
+    minZ: 16
+    maxX: 10
+    maxY: 15
+    maxZ: 17
+    magicaIndex: 248
+  - minX: 9
+    minY: 14
+    minZ: 20
+    maxX: 10
+    maxY: 15
+    maxZ: 21
+    magicaIndex: 248
+  - minX: 11
+    minY: 9
+    minZ: 2
+    maxX: 18
+    maxY: 10
+    maxZ: 3
+    magicaIndex: 248
+  - minX: 11
+    minY: 9
+    minZ: 18
+    maxX: 18
+    maxY: 10
+    maxZ: 19
+    magicaIndex: 248
+  - minX: 11
+    minY: 10
+    minZ: 1
+    maxX: 18
+    maxY: 11
+    maxZ: 2
+    magicaIndex: 248
+  - minX: 11
+    minY: 10
+    minZ: 19
+    maxX: 18
+    maxY: 11
+    maxZ: 20
+    magicaIndex: 248
+  - minX: 11
+    minY: 14
+    minZ: 0
+    maxX: 12
+    maxY: 15
+    maxZ: 1
+    magicaIndex: 248
+  - minX: 11
+    minY: 14
+    minZ: 4
+    maxX: 12
+    maxY: 15
+    maxZ: 5
+    magicaIndex: 248
+  - minX: 11
+    minY: 14
+    minZ: 16
+    maxX: 12
+    maxY: 15
+    maxZ: 17
+    magicaIndex: 248
+  - minX: 11
+    minY: 14
+    minZ: 20
+    maxX: 12
+    maxY: 15
+    maxZ: 21
+    magicaIndex: 248
+  - minX: 12
+    minY: 7
+    minZ: 1
+    maxX: 19
+    maxY: 8
+    maxZ: 5
+    magicaIndex: 248
+  - minX: 12
+    minY: 7
+    minZ: 16
+    maxX: 19
+    maxY: 8
+    maxZ: 20
+    magicaIndex: 248
+  - minX: 12
+    minY: 9
+    minZ: 1
+    maxX: 18
+    maxY: 10
+    maxZ: 2
+    magicaIndex: 248
+  - minX: 12
+    minY: 9
+    minZ: 19
+    maxX: 18
+    maxY: 10
+    maxZ: 20
+    magicaIndex: 248
+  - minX: 13
+    minY: 0
+    minZ: 1
+    maxX: 17
+    maxY: 7
+    maxZ: 5
+    magicaIndex: 248
+  - minX: 13
+    minY: 0
+    minZ: 16
+    maxX: 17
+    maxY: 7
+    maxZ: 20
+    magicaIndex: 248
+  - minX: 13
+    minY: 7
+    minZ: 0
+    maxX: 18
+    maxY: 8
+    maxZ: 1
+    magicaIndex: 248
+  - minX: 13
+    minY: 7
+    minZ: 20
+    maxX: 18
+    maxY: 8
+    maxZ: 21
+    magicaIndex: 248
+  - minX: 13
+    minY: 8
+    minZ: 1
+    maxX: 18
+    maxY: 9
+    maxZ: 5
+    magicaIndex: 248
+  - minX: 13
+    minY: 8
+    minZ: 16
+    maxX: 18
+    maxY: 9
+    maxZ: 20
+    magicaIndex: 248
+  - minX: 13
+    minY: 12
+    minZ: 4
+    maxX: 18
+    maxY: 13
+    maxZ: 5
+    magicaIndex: 248
+  - minX: 13
+    minY: 12
+    minZ: 16
+    maxX: 18
+    maxY: 13
+    maxZ: 17
+    magicaIndex: 248
+  - minX: 13
+    minY: 14
+    minZ: 0
+    maxX: 14
+    maxY: 15
+    maxZ: 1
+    magicaIndex: 248
+  - minX: 13
+    minY: 14
+    minZ: 4
+    maxX: 14
+    maxY: 15
+    maxZ: 5
+    magicaIndex: 248
+  - minX: 13
+    minY: 14
+    minZ: 16
+    maxX: 14
+    maxY: 15
+    maxZ: 17
+    magicaIndex: 248
+  - minX: 13
+    minY: 14
+    minZ: 20
+    maxX: 14
+    maxY: 15
+    maxZ: 21
+    magicaIndex: 248
+  - minX: 15
+    minY: 0
+    minZ: 5
+    maxX: 16
+    maxY: 12
+    maxZ: 16
+    magicaIndex: 248
+  - minX: 15
+    minY: 11
+    minZ: 1
+    maxX: 16
+    maxY: 12
+    maxZ: 2
+    magicaIndex: 248
+  - minX: 15
+    minY: 11
+    minZ: 19
+    maxX: 16
+    maxY: 12
+    maxZ: 20
+    magicaIndex: 248
+  - minX: 15
+    minY: 12
+    minZ: 5
+    maxX: 16
+    maxY: 14
+    maxZ: 7
+    magicaIndex: 248
+  - minX: 15
+    minY: 12
+    minZ: 8
+    maxX: 16
+    maxY: 14
+    maxZ: 13
+    magicaIndex: 248
+  - minX: 15
+    minY: 12
+    minZ: 14
+    maxX: 16
+    maxY: 14
+    maxZ: 16
+    magicaIndex: 248
+  - minX: 15
+    minY: 13
+    minZ: 7
+    maxX: 16
+    maxY: 14
+    maxZ: 8
+    magicaIndex: 248
+  - minX: 15
+    minY: 13
+    minZ: 13
+    maxX: 16
+    maxY: 14
+    maxZ: 14
+    magicaIndex: 248
+  - minX: 15
+    minY: 14
+    minZ: 0
+    maxX: 16
+    maxY: 15
+    maxZ: 1
+    magicaIndex: 248
+  - minX: 15
+    minY: 14
+    minZ: 4
+    maxX: 16
+    maxY: 15
+    maxZ: 5
+    magicaIndex: 248
+  - minX: 15
+    minY: 14
+    minZ: 6
+    maxX: 16
+    maxY: 15
+    maxZ: 7
+    magicaIndex: 248
+  - minX: 15
+    minY: 14
+    minZ: 8
+    maxX: 16
+    maxY: 15
+    maxZ: 9
+    magicaIndex: 248
+  - minX: 15
+    minY: 14
+    minZ: 10
+    maxX: 16
+    maxY: 15
+    maxZ: 11
+    magicaIndex: 248
+  - minX: 15
+    minY: 14
+    minZ: 12
+    maxX: 16
+    maxY: 15
+    maxZ: 13
+    magicaIndex: 248
+  - minX: 15
+    minY: 14
+    minZ: 14
+    maxX: 16
+    maxY: 15
+    maxZ: 15
+    magicaIndex: 248
+  - minX: 15
+    minY: 14
+    minZ: 16
+    maxX: 16
+    maxY: 15
+    maxZ: 17
+    magicaIndex: 248
+  - minX: 15
+    minY: 14
+    minZ: 20
+    maxX: 16
+    maxY: 15
+    maxZ: 21
+    magicaIndex: 248
+  - minX: 16
+    minY: 0
+    minZ: 6
+    maxX: 17
+    maxY: 13
+    maxZ: 15
+    magicaIndex: 248
+  - minX: 16
+    minY: 4
+    minZ: 5
+    maxX: 17
+    maxY: 13
+    maxZ: 6
+    magicaIndex: 248
+  - minX: 16
+    minY: 4
+    minZ: 15
+    maxX: 17
+    maxY: 13
+    maxZ: 16
+    magicaIndex: 248
+  - minX: 17
+    minY: 0
+    minZ: 1
+    maxX: 18
+    maxY: 7
+    maxZ: 4
+    magicaIndex: 248
+  - minX: 17
+    minY: 0
+    minZ: 7
+    maxX: 18
+    maxY: 11
+    maxZ: 14
+    magicaIndex: 248
+  - minX: 17
+    minY: 0
+    minZ: 17
+    maxX: 18
+    maxY: 7
+    maxZ: 20
+    magicaIndex: 248
+  - minX: 17
+    minY: 4
+    minZ: 4
+    maxX: 18
+    maxY: 7
+    maxZ: 7
+    magicaIndex: 248
+  - minX: 17
+    minY: 4
+    minZ: 14
+    maxX: 18
+    maxY: 7
+    maxZ: 17
+    magicaIndex: 248
+  - minX: 17
+    minY: 7
+    minZ: 5
+    maxX: 18
+    maxY: 11
+    maxZ: 7
+    magicaIndex: 248
+  - minX: 17
+    minY: 7
+    minZ: 14
+    maxX: 18
+    maxY: 11
+    maxZ: 16
+    magicaIndex: 248
+  - minX: 17
+    minY: 11
+    minZ: 1
+    maxX: 18
+    maxY: 12
+    maxZ: 3
+    magicaIndex: 248
+  - minX: 17
+    minY: 11
+    minZ: 6
+    maxX: 18
+    maxY: 13
+    maxZ: 7
+    magicaIndex: 248
+  - minX: 17
+    minY: 11
+    minZ: 8
+    maxX: 18
+    maxY: 13
+    maxZ: 9
+    magicaIndex: 248
+  - minX: 17
+    minY: 11
+    minZ: 10
+    maxX: 18
+    maxY: 13
+    maxZ: 11
+    magicaIndex: 248
+  - minX: 17
+    minY: 11
+    minZ: 12
+    maxX: 18
+    maxY: 13
+    maxZ: 13
+    magicaIndex: 248
+  - minX: 17
+    minY: 11
+    minZ: 14
+    maxX: 18
+    maxY: 13
+    maxZ: 15
+    magicaIndex: 248
+  - minX: 17
+    minY: 11
+    minZ: 18
+    maxX: 18
+    maxY: 12
+    maxZ: 20
+    magicaIndex: 248
+  - minX: 17
+    minY: 12
+    minZ: 5
+    maxX: 18
+    maxY: 13
+    maxZ: 6
+    magicaIndex: 248
+  - minX: 17
+    minY: 12
+    minZ: 7
+    maxX: 18
+    maxY: 13
+    maxZ: 8
+    magicaIndex: 248
+  - minX: 17
+    minY: 12
+    minZ: 9
+    maxX: 18
+    maxY: 13
+    maxZ: 10
+    magicaIndex: 248
+  - minX: 17
+    minY: 12
+    minZ: 11
+    maxX: 18
+    maxY: 13
+    maxZ: 12
+    magicaIndex: 248
+  - minX: 17
+    minY: 12
+    minZ: 13
+    maxX: 18
+    maxY: 13
+    maxZ: 14
+    magicaIndex: 248
+  - minX: 17
+    minY: 12
+    minZ: 15
+    maxX: 18
+    maxY: 13
+    maxZ: 16
+    magicaIndex: 248
+  - minX: 17
+    minY: 14
+    minZ: 0
+    maxX: 18
+    maxY: 15
+    maxZ: 1
+    magicaIndex: 248
+  - minX: 17
+    minY: 14
+    minZ: 20
+    maxX: 18
+    maxY: 15
+    maxZ: 21
+    magicaIndex: 248
+  - minX: 18
+    minY: 7
+    minZ: 5
+    maxX: 19
+    maxY: 8
+    maxZ: 16
+    magicaIndex: 248
+  - minX: 18
+    minY: 13
+    minZ: 1
+    maxX: 19
+    maxY: 14
+    maxZ: 20
+    magicaIndex: 248
+  - minX: 18
+    minY: 14
+    minZ: 1
+    maxX: 19
+    maxY: 15
+    maxZ: 2
+    magicaIndex: 248
+  - minX: 18
+    minY: 14
+    minZ: 3
+    maxX: 19
+    maxY: 15
+    maxZ: 4
+    magicaIndex: 248
+  - minX: 18
+    minY: 14
+    minZ: 5
+    maxX: 19
+    maxY: 15
+    maxZ: 6
+    magicaIndex: 248
+  - minX: 18
+    minY: 14
+    minZ: 7
+    maxX: 19
+    maxY: 15
+    maxZ: 8
+    magicaIndex: 248
+  - minX: 18
+    minY: 14
+    minZ: 9
+    maxX: 19
+    maxY: 15
+    maxZ: 10
+    magicaIndex: 248
+  - minX: 18
+    minY: 14
+    minZ: 11
+    maxX: 19
+    maxY: 15
+    maxZ: 12
+    magicaIndex: 248
+  - minX: 18
+    minY: 14
+    minZ: 13
+    maxX: 19
+    maxY: 15
+    maxZ: 14
+    magicaIndex: 248
+  - minX: 18
+    minY: 14
+    minZ: 15
+    maxX: 19
+    maxY: 15
+    maxZ: 16
+    magicaIndex: 248
+  - minX: 18
+    minY: 14
+    minZ: 17
+    maxX: 19
+    maxY: 15
+    maxZ: 18
+    magicaIndex: 248
+  - minX: 18
+    minY: 14
+    minZ: 19
+    maxX: 19
+    maxY: 15
+    maxZ: 20
+    magicaIndex: 248
+  minXOffset: 0
+  minYOffset: 0
+  minZOffset: 0
+  boxColliderHolderList: []
+  uniqueId: 0
+  inheritableId: 0
+  cusGroupId: 0
+  fellInTurn: 0
+  parentHolder: {fileID: 0}
+  lastVelocity: {x: 0, y: 0, z: 0}
+  lastAngularVelocity: {x: 0, y: 0, z: 0}
+  startPosX: -2
+  startPosY: 0
+  startPosZ: -2.1999998
+  kdOriginalIndicesArr: 
+  kdCellDataArr: []
+  kdCellLength: 0
+  kdLeafLength: 0
+  cellDataList: []
+  fallVisited: 0
+  fallUpdateAlready: 0
+  cusInitAlready: 0
+  hasReturnDelay: 0
+  returnDelay: 0
+  massFac: 1
+  callerStrengthMul: 1
+  canAdvancedFrag: 0
+  fragSettings: {fileID: 0}
+  planeBasedOnCaller: 0

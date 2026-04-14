@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 87d0389d9a9fd354cb4e9e01fd416f01
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 331249
+  packageName: BoxCutter - Realtime Voxel Destruction
+  packageVersion: 2.15
+  assetPath: Assets/BoxCutter/DemoScenes/Examples/Models/MagicaModels/Rig Example/Simple/Models/Connector.mat
+  uploadId: 857278

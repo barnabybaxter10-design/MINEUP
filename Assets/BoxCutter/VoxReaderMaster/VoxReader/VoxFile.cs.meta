@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6c9aaef657c8bd84c8c98b8f36d076ef
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 331249
+  packageName: BoxCutter - Realtime Voxel Destruction
+  packageVersion: 2.15
+  assetPath: Assets/BoxCutter/VoxReaderMaster/VoxReader/VoxFile.cs
+  uploadId: 857278

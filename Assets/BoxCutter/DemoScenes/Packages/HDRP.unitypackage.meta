@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c3f848e01f0b1034e991fa6452a813a1
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 331249
+  packageName: BoxCutter - Realtime Voxel Destruction
+  packageVersion: 2.15
+  assetPath: Assets/BoxCutter/DemoScenes/Packages/HDRP.unitypackage
+  uploadId: 857278

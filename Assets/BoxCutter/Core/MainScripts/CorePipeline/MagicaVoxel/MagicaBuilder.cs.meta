@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a4aab4c7983f94c46b0daa35af8e104d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 331249
+  packageName: BoxCutter - Realtime Voxel Destruction
+  packageVersion: 2.15
+  assetPath: Assets/BoxCutter/Core/MainScripts/CorePipeline/MagicaVoxel/MagicaBuilder.cs
+  uploadId: 857278

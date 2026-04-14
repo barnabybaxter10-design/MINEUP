@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 015683c53992e3e4eb1be775f8c610d9
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: efef8cca3214e014983e198539f6322c, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 331249
+  packageName: BoxCutter - Realtime Voxel Destruction
+  packageVersion: 2.15
+  assetPath: Assets/BoxCutter/DemoScenes/Examples/Models/MagicaModels/Rig Example/Humanoid/Models/Torso.vox
+  uploadId: 857278

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e52bd996bf7aea24dab43196f7b4f8b4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 331249
+  packageName: BoxCutter - Realtime Voxel Destruction
+  packageVersion: 2.15
+  assetPath: Assets/BoxCutter/DemoScenes/Examples/Scripts/Demo/BoxCutterRb.cs
+  uploadId: 857278

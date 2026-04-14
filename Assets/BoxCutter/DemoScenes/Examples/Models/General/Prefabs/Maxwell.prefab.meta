@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b6e574df36e30cd4c8404532dd680789
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 331249
+  packageName: BoxCutter - Realtime Voxel Destruction
+  packageVersion: 2.15
+  assetPath: Assets/BoxCutter/DemoScenes/Examples/Models/General/Prefabs/Maxwell.prefab
+  uploadId: 857278

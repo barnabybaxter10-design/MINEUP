@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 808efb570d6eabb4686a7135f7de531f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 331249
+  packageName: BoxCutter - Realtime Voxel Destruction
+  packageVersion: 2.15
+  assetPath: Assets/BoxCutter/DemoScenes/Examples/Mats/0.125 Checker.mat
+  uploadId: 857278

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1b3cf32d387ea44469eb91689c941d36
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 331249
+  packageName: BoxCutter - Realtime Voxel Destruction
+  packageVersion: 2.15
+  assetPath: Assets/BoxCutter/DemoScenes/Examples/Mats/NokiaSphere.mat
+  uploadId: 857278

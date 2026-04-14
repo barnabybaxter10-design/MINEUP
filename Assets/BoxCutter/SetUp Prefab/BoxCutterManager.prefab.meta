@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: be89b8496b41e934b8e8b56d88d110fc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 331249
+  packageName: BoxCutter - Realtime Voxel Destruction
+  packageVersion: 2.15
+  assetPath: Assets/BoxCutter/SetUp Prefab/BoxCutterManager.prefab
+  uploadId: 857278

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 31b4c28bc23c6494b92cd70b6e2372ff
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: efef8cca3214e014983e198539f6322c, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 331249
+  packageName: BoxCutter - Realtime Voxel Destruction
+  packageVersion: 2.15
+  assetPath: Assets/BoxCutter/DemoScenes/Examples/Models/MagicaModels/Bottle/Models/MyBottleVox.vox
+  uploadId: 857278

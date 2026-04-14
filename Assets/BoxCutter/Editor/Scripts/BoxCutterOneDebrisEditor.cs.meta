@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7a3f14ca8ca6ca14daddf4aa84c84419
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 331249
+  packageName: BoxCutter - Realtime Voxel Destruction
+  packageVersion: 2.15
+  assetPath: Assets/BoxCutter/Editor/Scripts/BoxCutterOneDebrisEditor.cs
+  uploadId: 857278

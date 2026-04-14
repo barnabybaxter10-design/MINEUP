@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bfed79d86a12cd640a06b610e0be327d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 331249
+  packageName: BoxCutter - Realtime Voxel Destruction
+  packageVersion: 2.15
+  assetPath: Assets/BoxCutter/Core/MainScripts/CorePipeline/Destruction/PlaneBasedOnCallerBuilder.cs
+  uploadId: 857278

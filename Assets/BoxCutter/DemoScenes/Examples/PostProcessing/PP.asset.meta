@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 18267e88b8372494d903510768e9d597
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 331249
+  packageName: BoxCutter - Realtime Voxel Destruction
+  packageVersion: 2.15
+  assetPath: Assets/BoxCutter/DemoScenes/Examples/PostProcessing/PP.asset
+  uploadId: 857278

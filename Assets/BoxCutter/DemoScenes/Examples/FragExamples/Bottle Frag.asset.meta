@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ee5b6fab605b4724688f855beaa985c6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 331249
+  packageName: BoxCutter - Realtime Voxel Destruction
+  packageVersion: 2.15
+  assetPath: Assets/BoxCutter/DemoScenes/Examples/FragExamples/Bottle Frag.asset
+  uploadId: 857278

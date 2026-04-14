@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 48a78cc29d0576847bd65b3acfc30e6f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 331249
+  packageName: BoxCutter - Realtime Voxel Destruction
+  packageVersion: 2.15
+  assetPath: Assets/BoxCutter/VoxReaderMaster/VoxReader/Interfaces/IChunk.cs
+  uploadId: 857278

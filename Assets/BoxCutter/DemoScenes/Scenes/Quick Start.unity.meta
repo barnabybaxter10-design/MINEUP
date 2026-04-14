@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 455bf17ea7d917344a9d19cc7b7a5da1
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 331249
+  packageName: BoxCutter - Realtime Voxel Destruction
+  packageVersion: 2.15
+  assetPath: Assets/BoxCutter/DemoScenes/Scenes/Quick Start.unity
+  uploadId: 857278

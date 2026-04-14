@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 53aae73e217569b46af8f29adc2bf052
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 331249
+  packageName: BoxCutter - Realtime Voxel Destruction
+  packageVersion: 2.15
+  assetPath: Assets/BoxCutter/DemoScenes/Examples/Models/MagicaModels/Bottle/Prefabs/Bottle.prefab
+  uploadId: 857278

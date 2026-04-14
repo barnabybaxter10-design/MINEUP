@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a720643174db85d46a5f8287c29e616e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 331249
+  packageName: BoxCutter - Realtime Voxel Destruction
+  packageVersion: 2.15
+  assetPath: Assets/BoxCutter/DemoScenes/Examples/Mats/BackDrop.mat
+  uploadId: 857278

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c46f102e6f8cd2144b21ee7a8761e38d
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 331249
+  packageName: BoxCutter - Realtime Voxel Destruction
+  packageVersion: 2.15
+  assetPath: Assets/BoxCutter/DemoScenes/Packages/URP.unitypackage
+  uploadId: 857278

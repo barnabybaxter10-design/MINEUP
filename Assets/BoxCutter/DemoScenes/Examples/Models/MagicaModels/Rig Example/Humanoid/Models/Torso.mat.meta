@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f2d8c1d79e92e0a46b0eb84db6b115e3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 331249
+  packageName: BoxCutter - Realtime Voxel Destruction
+  packageVersion: 2.15
+  assetPath: Assets/BoxCutter/DemoScenes/Examples/Models/MagicaModels/Rig Example/Humanoid/Models/Torso.mat
+  uploadId: 857278

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bfbd75a78d8f03c4e8637296b43546cb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 331249
+  packageName: BoxCutter - Realtime Voxel Destruction
+  packageVersion: 2.15
+  assetPath: Assets/BoxCutter/DemoScenes/Examples/Mats/Maxwell.mat
+  uploadId: 857278

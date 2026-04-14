@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7b0dcc0ad08d3d14aa3344221c559fb5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 147a4d746603f2d49ab0513a46843c14, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 331249
+  packageName: BoxCutter - Realtime Voxel Destruction
+  packageVersion: 2.15
+  assetPath: Assets/BoxCutter/Core/MainScripts/CorePipeline/Fragmentation/FragSetting.cs
+  uploadId: 857278

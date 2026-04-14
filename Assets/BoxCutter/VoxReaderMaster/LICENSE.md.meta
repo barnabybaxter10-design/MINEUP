@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5cd750ffb2c5f6440811678e3e4278c7
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 331249
+  packageName: BoxCutter - Realtime Voxel Destruction
+  packageVersion: 2.15
+  assetPath: Assets/BoxCutter/VoxReaderMaster/LICENSE.md
+  uploadId: 857278

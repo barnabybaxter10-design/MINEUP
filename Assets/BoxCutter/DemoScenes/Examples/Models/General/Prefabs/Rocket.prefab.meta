@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4bdf7d09ee00ec84cb9311c2751c5b03
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 331249
+  packageName: BoxCutter - Realtime Voxel Destruction
+  packageVersion: 2.15
+  assetPath: Assets/BoxCutter/DemoScenes/Examples/Models/General/Prefabs/Rocket.prefab
+  uploadId: 857278
