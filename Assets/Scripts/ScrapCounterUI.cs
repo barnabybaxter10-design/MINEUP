@@ -1,10 +1,11 @@
+using TMPro;
 using UnityEngine;
-using UnityEngine.UI;
 
 public class ScrapCounterUI : MonoBehaviour
 {
     [SerializeField] private ScrapWallet wallet;
-    [SerializeField] private Text scrapText;
+    [SerializeField] private TMP_Text scrapText;
+    [SerializeField] private TextMesh worldText;
     [SerializeField] private string prefix = "Scrap: ";
 
     private void Awake()
@@ -46,11 +47,16 @@ public class ScrapCounterUI : MonoBehaviour
 
     private void RefreshText(int scrapValue)
     {
-        if (scrapText == null)
+        string label = $"{prefix}{scrapValue}";
+
+        if (scrapText != null)
         {
-            return;
+            scrapText.text = label;
         }
 
-        scrapText.text = $"{prefix}{scrapValue}";
+        if (worldText != null)
+        {
+            worldText.text = label;
+        }
     }
 }
